@@ -9,7 +9,7 @@ env:
   LOCATION: East US
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b04570a4-b32e-4bc1-9593-5120093dfaff
-  WEBAPP-NAME: az400-Manjita-Azure Devops
+  WEBAPP-NAME: az400-Manjita-AzureDevops
 
 
 jobs:
